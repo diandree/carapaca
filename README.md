@@ -1,5 +1,2 @@
 # _Shell_ Remota Segura (_codenamed_: CARAPAÇA)
-Este projeto tem como objetivo a construção de um sistema na arquitetura cliente / servidor que imite o Secure Shell.O sistema terá, portanto, uma aplicação servidor e uma aplicação
-cliente. Após ser colocada a correr, a aplicação servidor aceita ligações de aplicações
-cliente, faz a autenticação de utilizadores registados no sistema, estabelece chaves de
-sessão, e permite que o cliente submeta comandos na máquina anfitriã.
+This project aims to build a client/server architecture system that mimics Secure Shell. The system will have a server application and a client application. Once it is running, the server application accepts connections from client applications, authenticates users registered in the system, establishes session keys, and allows the client to submit commands on the host machine.
